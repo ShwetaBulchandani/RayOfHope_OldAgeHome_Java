@@ -2,10 +2,6 @@ RAY OF HOPE – OLD AGE HOME !
 
 
 
-Project Owners: Shweta Chandraprakash Bulchandani (002769540), Khyati Kachhawah(002744287), Parag Khankari(002707989)
-
-
-
 Description :
 
 
