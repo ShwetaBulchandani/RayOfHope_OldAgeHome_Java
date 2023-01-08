@@ -20,7 +20,7 @@ Flowchart :
 
 
 
-![image](https://github.com/kachhawahkhyati/aed_project/blob/main/Images/RayofHope_Flowchart_Diagram.jpg)
+![image](https://github.com/ShwetaBulchandani/RayOfHope_OldAgeHome_Java/blob/main/Images/RayofHope_Flowchart_Diagram.jpg)
 
 
 
@@ -32,7 +32,7 @@ Object Model Diagram :
 
 
 
-![image](https://github.com/kachhawahkhyati/aed_project/blob/main/Images/RayofHope_Final_UML.jpg)
+![image](https://github.com/ShwetaBulchandani/RayOfHope_OldAgeHome_Java/blob/main/Images/RayofHope_Final_UML.jpg)
 
 
 
@@ -44,7 +44,7 @@ Sequence Diagram :
 
 
 
-![image](https://github.com/kachhawahkhyati/aed_project/blob/main/Images/RayofHope_Sequence_Diagram_Final_Project.jpg)
+![image](https://github.com/ShwetaBulchandani/RayOfHope_OldAgeHome_Java/blob/main/Images/RayofHope_Sequence_Diagram_Final_Project.jpg)
 
 
 
@@ -52,4 +52,4 @@ Sequence Diagram :
 
 
 
-![image](https://github.com/kachhawahkhyati/aed_project/blob/main/Images/RayofHope_SEQUENCE_Diagram_2_BIG%20ONE.jpg)
+![image](https://github.com/ShwetaBulchandani/RayOfHope_OldAgeHome_Java/blob/main/Images/RayofHope_SEQUENCE_Diagram_2_BIG%20ONE.jpg)
